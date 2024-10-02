@@ -22,8 +22,6 @@ Un repo distant : sur un serveur (gitlab, github, etc...)
 
 ## Le branching
 
-- ```git banch```
-- ```git checkout```
-
-
-test
+- ```git branch``` : permet de voir les branches
+- ```git branch [NOM]``` : permet de créer une branche
+- ```git checkout [NOM]``` : permet de changer de branche
