@@ -14,7 +14,7 @@ Pour transformer un dossier en repo, il faut au choix :
 Un repo local : sur la machine
 Un repo distant : sur un serveur (gitlab, github, etc...)
 
-### Le triptique de base
+### Le triptyque de base
 
 - ```git add .``` : permet d'ajouter tous les fichiers ajoutés ou modifiés ou supprimés en "staging"
 - ```git commit -m "message..."``` : création de l'enregistrement **du staging** !
