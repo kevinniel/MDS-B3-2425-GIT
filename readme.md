@@ -16,6 +16,8 @@ Un repo distant : sur un serveur (gitlab, github, etc...)
 
 ### Le triptique de base
 
-```git add .``` : permet d'ajouter tous les fichiers ajoutés ou modifiés ou supprimés en "staging"
-```git commit -m "message..."``` : création de l'enregistrement **du staging** !
-```git push``` : mettre en ligne les commits réalisés
+- ```git add .``` : permet d'ajouter tous les fichiers ajoutés ou modifiés ou supprimés en "staging"
+- ```git commit -m "message..."``` : création de l'enregistrement **du staging** !
+- ```git push``` : mettre en ligne les commits réalisés
+
+
