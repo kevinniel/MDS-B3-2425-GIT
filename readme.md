@@ -20,4 +20,7 @@ Un repo distant : sur un serveur (gitlab, github, etc...)
 - ```git commit -m "message..."``` : création de l'enregistrement **du staging** !
 - ```git push``` : mettre en ligne les commits réalisés
 
+## Le branching
 
+- ```git banch```
+- ```git checkout```
