@@ -15,6 +15,6 @@ Respectez l'ordre chronologiquement :
 - Il ajoute les autres membres du groupe dessus
 - Tout le monde doit pull le repo vide, de base.
 - Avant de commencer, vous devez vous affecter les termes individuellement
-A PARTOR D'ICI : chacun pour sa gueule, le plus vite possible
+A PARTIR D'ICI : chacun pour soi, le plus vite possible
 - Vous allez devoir ajouter votre définition au fichier (le plus rapidement possible)
 - Vous allez devoir push, tous sur 1 seule et même branche
